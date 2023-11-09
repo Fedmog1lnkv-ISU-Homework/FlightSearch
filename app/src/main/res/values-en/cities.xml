@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cities">
+        <item>Select a city</item>
+        <item>Moscow</item>
+        <item>St. Petersburg</item>
+        <item>Novosibirsk</item>
+        <item>Yekaterinburg</item>
+        <item>Nizhny Novgorod</item>
+        <item>Kazan</item>
+        <item>Chelyabinsk</item>
+        <item>Omsk</item>
+        <item>Samara</item>
+        <item>Rostov-on-Don</item>
+        <item>Ufa</item>
+        <item>Krasnoyarsk</item>
+        <item>Perm</item>
+        <item>Voronezh</item>
+        <item>Volgograd</item>
+        <item>Izhevsk</item>
+        <item>Tyumen</item>
+        <item>Krasnodar</item>
+        <item>Tolyatti</item>
+        <item>Saratov</item>
+        <item>Kaliningrad</item>
+        <item>Sochi</item>
+        <item>Kemerovo</item>
+        <item>Nizhny Tagil</item>
+        <item>Vladivostok</item>
+        <item>Sevastopol</item>
+        <item>Krasnodar</item>
+        <item>Krasnoyarsk</item>
+        <item>Irkutsk</item>
+    </string-array>
+</resources>

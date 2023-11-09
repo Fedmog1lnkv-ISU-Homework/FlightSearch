@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FlightSearch</string>
+    <string name="select_departure_city">Select departure city</string>
+    <string name="select_arrival_city">Select arrival city</string>
+    <string name="departure_date_hint">Departure date</string>
+    <string name="arrival_date_hint">Arrival date</string>
+    <string name="adults_hint">Adults</string>
+    <string name="children_hint">Children</string>
+    <string name="infants_hint">Infants</string>
+    <string name="search_button_text">Search</string>
+</resources>
