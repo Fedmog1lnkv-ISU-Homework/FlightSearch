@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">FlightSearch</string>
+    <string name="select_departure_city">Выберите город вылета</string>
+    <string name="select_arrival_city">Выберите город прилета</string>
+    <string name="departure_date_hint">Дата вылета</string>
+    <string name="arrival_date_hint">Дата прилета</string>
+    <string name="adults_hint">Взрослые</string>
+    <string name="children_hint">Дети</string>
+    <string name="infants_hint">Младенцы</string>
+    <string name="search_button_text">Поиск</string>
 </resources>

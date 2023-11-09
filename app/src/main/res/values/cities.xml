@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cities">
+        <item>Выберите город</item>
+        <item>Москва</item>
+        <item>Санкт-Петербург</item>
+        <item>Новосибирск</item>
+        <item>Екатеринбург</item>
+        <item>Нижний Новгород</item>
+        <item>Казань</item>
+        <item>Челябинск</item>
+        <item>Омск</item>
+        <item>Самара</item>
+        <item>Ростов-на-Дону</item>
+        <item>Уфа</item>
+        <item>Красноярск</item>
+        <item>Пермь</item>
+        <item>Воронеж</item>
+        <item>Волгоград</item>
+        <item>Ижевск</item>
+        <item>Тюмень</item>
+        <item>Краснодар</item>
+        <item>Тольятти</item>
+        <item>Саратов</item>
+        <item>Калининград</item>
+        <item>Сочи</item>
+        <item>Кемерово</item>
+        <item>Нижний Тагил</item>
+        <item>Владивосток</item>
+        <item>Севастополь</item>
+        <item>Краснодар</item>
+        <item>Красноярск</item>
+        <item>Иркутск</item>
+    </string-array>
+</resources>
